@@ -1,0 +1,2011 @@
+Q Learning BOLTZMann
+Working with Tau - 10
+Episodes - 0
+Total Reward - -6293
+Episodes - 1
+Total Reward - -64158
+Episodes - 2
+Total Reward - -100000
+Episodes - 3
+Total Reward - -27511
+Episodes - 4
+Total Reward - -57792
+Episodes - 5
+Total Reward - -28694
+Episodes - 6
+Total Reward - -100000
+Episodes - 7
+Total Reward - -78960
+Episodes - 8
+Total Reward - -1458
+Episodes - 9
+Total Reward - -80792
+Episodes - 10
+Total Reward - -82760
+Episodes - 11
+Total Reward - -56079
+Episodes - 12
+Total Reward - -30446
+Episodes - 13
+Total Reward - -25235
+Episodes - 14
+Total Reward - -19627
+Episodes - 15
+Total Reward - -16154
+Episodes - 16
+Total Reward - -49518
+Episodes - 17
+Total Reward - -39384
+Episodes - 18
+Total Reward - -22596
+Episodes - 19
+Total Reward - -65257
+Episodes - 20
+Total Reward - -49306
+Episodes - 21
+Total Reward - -8150
+Episodes - 22
+Total Reward - -45727
+Episodes - 23
+Total Reward - -3496
+Episodes - 24
+Total Reward - -64704
+Episodes - 25
+Total Reward - -32732
+Episodes - 26
+Total Reward - -100000
+Episodes - 27
+Total Reward - -31984
+Episodes - 28
+Total Reward - -18076
+Episodes - 29
+Total Reward - -85995
+Episodes - 30
+Total Reward - -65327
+Episodes - 31
+Total Reward - -21580
+Episodes - 32
+Total Reward - -10283
+Episodes - 33
+Total Reward - -37248
+Episodes - 34
+Total Reward - -3302
+Episodes - 35
+Total Reward - -100000
+Episodes - 36
+Total Reward - -74135
+Episodes - 37
+Total Reward - -65361
+Episodes - 38
+Total Reward - -49988
+Episodes - 39
+Total Reward - -25671
+Episodes - 40
+Total Reward - -98922
+Episodes - 41
+Total Reward - -100000
+Episodes - 42
+Total Reward - -5351
+Episodes - 43
+Total Reward - -89008
+Episodes - 44
+Total Reward - -30108
+Episodes - 45
+Total Reward - -100000
+Episodes - 46
+Total Reward - -52272
+Episodes - 47
+Total Reward - -100000
+Episodes - 48
+Total Reward - -29745
+Episodes - 49
+Total Reward - -26268
+Episodes - 50
+Total Reward - -4253
+Episodes - 51
+Total Reward - -49981
+Episodes - 52
+Total Reward - -8584
+Episodes - 53
+Total Reward - -49588
+Episodes - 54
+Total Reward - -42926
+Episodes - 55
+Total Reward - -17586
+Episodes - 56
+Total Reward - -12072
+Episodes - 57
+Total Reward - -50282
+Episodes - 58
+Total Reward - -11569
+Episodes - 59
+Total Reward - -29723
+Episodes - 60
+Total Reward - -20700
+Episodes - 61
+Total Reward - -57089
+Episodes - 62
+Total Reward - -3904
+Episodes - 63
+Total Reward - -56275
+Episodes - 64
+Total Reward - -4416
+Episodes - 65
+Total Reward - -49248
+Episodes - 66
+Total Reward - -25832
+Episodes - 67
+Total Reward - -23376
+Episodes - 68
+Total Reward - -77610
+Episodes - 69
+Total Reward - -3325
+Episodes - 70
+Total Reward - -16089
+Episodes - 71
+Total Reward - -67595
+Episodes - 72
+Total Reward - -71314
+Episodes - 73
+Total Reward - -79380
+Episodes - 74
+Total Reward - -46099
+Episodes - 75
+Total Reward - -14152
+Episodes - 76
+Total Reward - -4074
+Episodes - 77
+Total Reward - -26733
+Episodes - 78
+Total Reward - -44251
+Episodes - 79
+Total Reward - -7988
+Episodes - 80
+Total Reward - -30094
+Episodes - 81
+Total Reward - -10763
+Episodes - 82
+Total Reward - -26746
+Episodes - 83
+Total Reward - -100000
+Episodes - 84
+Total Reward - -34431
+Episodes - 85
+Total Reward - -100000
+Episodes - 86
+Total Reward - -4526
+Episodes - 87
+Total Reward - -11724
+Episodes - 88
+Total Reward - -14320
+Episodes - 89
+Total Reward - -13959
+Episodes - 90
+Total Reward - -84733
+Episodes - 91
+Total Reward - -3408
+Episodes - 92
+Total Reward - -38564
+Episodes - 93
+Total Reward - -14909
+Episodes - 94
+Total Reward - -100000
+Episodes - 95
+Total Reward - -78690
+Episodes - 96
+Total Reward - -77516
+Episodes - 97
+Total Reward - -62379
+Episodes - 98
+Total Reward - -84753
+Episodes - 99
+Total Reward - -53551
+Episodes - 100
+Total Reward - -59930
+Episodes - 101
+Total Reward - -79327
+Episodes - 102
+Total Reward - -21821
+Episodes - 103
+Total Reward - -4910
+Episodes - 104
+Total Reward - -100000
+Episodes - 105
+Total Reward - -10673
+Episodes - 106
+Total Reward - -45999
+Episodes - 107
+Total Reward - -9184
+Episodes - 108
+Total Reward - -79992
+Episodes - 109
+Total Reward - -77125
+Episodes - 110
+Total Reward - -25908
+Episodes - 111
+Total Reward - -6195
+Episodes - 112
+Total Reward - -3673
+Episodes - 113
+Total Reward - -4353
+Episodes - 114
+Total Reward - -32843
+Episodes - 115
+Total Reward - -55675
+Episodes - 116
+Total Reward - -61526
+Episodes - 117
+Total Reward - -13556
+Episodes - 118
+Total Reward - -29105
+Episodes - 119
+Total Reward - -41539
+Episodes - 120
+Total Reward - -16682
+Episodes - 121
+Total Reward - -41013
+Episodes - 122
+Total Reward - -26379
+Episodes - 123
+Total Reward - -7116
+Episodes - 124
+Total Reward - -6048
+Episodes - 125
+Total Reward - -21793
+Episodes - 126
+Total Reward - -36199
+Episodes - 127
+Total Reward - -5097
+Episodes - 128
+Total Reward - -56686
+Episodes - 129
+Total Reward - -16756
+Episodes - 130
+Total Reward - -70276
+Episodes - 131
+Total Reward - -15588
+Episodes - 132
+Total Reward - -8703
+Episodes - 133
+Total Reward - -54921
+Episodes - 134
+Total Reward - -12090
+Episodes - 135
+Total Reward - -69790
+Episodes - 136
+Total Reward - -66886
+Episodes - 137
+Total Reward - -35121
+Episodes - 138
+Total Reward - -27290
+Episodes - 139
+Total Reward - -100000
+Episodes - 140
+Total Reward - -6559
+Episodes - 141
+Total Reward - -82644
+Episodes - 142
+Total Reward - -9996
+Episodes - 143
+Total Reward - -10771
+Episodes - 144
+Total Reward - -60007
+Episodes - 145
+Total Reward - -48191
+Episodes - 146
+Total Reward - -6398
+Episodes - 147
+Total Reward - -44604
+Episodes - 148
+Total Reward - -6080
+Episodes - 149
+Total Reward - -100000
+Episodes - 150
+Total Reward - -48116
+Episodes - 151
+Total Reward - -28300
+Episodes - 152
+Total Reward - -2084
+Episodes - 153
+Total Reward - -51518
+Episodes - 154
+Total Reward - -100000
+Episodes - 155
+Total Reward - -36023
+Episodes - 156
+Total Reward - -45426
+Episodes - 157
+Total Reward - -4701
+Episodes - 158
+Total Reward - -30753
+Episodes - 159
+Total Reward - -10828
+Episodes - 160
+Total Reward - -33025
+Episodes - 161
+Total Reward - -5495
+Episodes - 162
+Total Reward - -19676
+Episodes - 163
+Total Reward - -79780
+Episodes - 164
+Total Reward - -83569
+Episodes - 165
+Total Reward - -87406
+Episodes - 166
+Total Reward - -72486
+Episodes - 167
+Total Reward - -32530
+Episodes - 168
+Total Reward - -27390
+Episodes - 169
+Total Reward - -32832
+Episodes - 170
+Total Reward - -26799
+Episodes - 171
+Total Reward - -100000
+Episodes - 172
+Total Reward - -2669
+Episodes - 173
+Total Reward - -37058
+Episodes - 174
+Total Reward - -64053
+Episodes - 175
+Total Reward - -5392
+Episodes - 176
+Total Reward - -34889
+Episodes - 177
+Total Reward - -30160
+Episodes - 178
+Total Reward - -3946
+Episodes - 179
+Total Reward - -39133
+Episodes - 180
+Total Reward - -19522
+Episodes - 181
+Total Reward - -36017
+Episodes - 182
+Total Reward - -67079
+Episodes - 183
+Total Reward - -65107
+Episodes - 184
+Total Reward - -29771
+Episodes - 185
+Total Reward - -86467
+Episodes - 186
+Total Reward - -100000
+Episodes - 187
+Total Reward - -61962
+Episodes - 188
+Total Reward - -78299
+Episodes - 189
+Total Reward - -13362
+Episodes - 190
+Total Reward - -17537
+Episodes - 191
+Total Reward - -82894
+Episodes - 192
+Total Reward - -24122
+Episodes - 193
+Total Reward - -10948
+Episodes - 194
+Total Reward - -14565
+Episodes - 195
+Total Reward - -7246
+Episodes - 196
+Total Reward - -63055
+Episodes - 197
+Total Reward - -100000
+Episodes - 198
+Total Reward - -15944
+Episodes - 199
+Total Reward - -4951
+percentage victory -41532.18
+Working with Tau - 100
+Episodes - 0
+Total Reward - -23357
+Episodes - 1
+Total Reward - -20203
+Episodes - 2
+Total Reward - -19830
+Episodes - 3
+Total Reward - -49144
+Episodes - 4
+Total Reward - -2876
+Episodes - 5
+Total Reward - -24142
+Episodes - 6
+Total Reward - -46374
+Episodes - 7
+Total Reward - -7891
+Episodes - 8
+Total Reward - -100000
+Episodes - 9
+Total Reward - -83949
+Episodes - 10
+Total Reward - -44759
+Episodes - 11
+Total Reward - -3088
+Episodes - 12
+Total Reward - -8031
+Episodes - 13
+Total Reward - -24925
+Episodes - 14
+Total Reward - -100000
+Episodes - 15
+Total Reward - -14804
+Episodes - 16
+Total Reward - -23474
+Episodes - 17
+Total Reward - -20266
+Episodes - 18
+Total Reward - -37570
+Episodes - 19
+Total Reward - -10130
+Episodes - 20
+Total Reward - -46998
+Episodes - 21
+Total Reward - -19476
+Episodes - 22
+Total Reward - -16370
+Episodes - 23
+Total Reward - -18457
+Episodes - 24
+Total Reward - -49304
+Episodes - 25
+Total Reward - -19855
+Episodes - 26
+Total Reward - -32481
+Episodes - 27
+Total Reward - -11766
+Episodes - 28
+Total Reward - -23239
+Episodes - 29
+Total Reward - -69949
+Episodes - 30
+Total Reward - -87303
+Episodes - 31
+Total Reward - -51666
+Episodes - 32
+Total Reward - -38980
+Episodes - 33
+Total Reward - -93992
+Episodes - 34
+Total Reward - -46190
+Episodes - 35
+Total Reward - -31908
+Episodes - 36
+Total Reward - -4922
+Episodes - 37
+Total Reward - -24403
+Episodes - 38
+Total Reward - -12820
+Episodes - 39
+Total Reward - -34429
+Episodes - 40
+Total Reward - -100000
+Episodes - 41
+Total Reward - -28368
+Episodes - 42
+Total Reward - -100000
+Episodes - 43
+Total Reward - -58244
+Episodes - 44
+Total Reward - -9679
+Episodes - 45
+Total Reward - -58785
+Episodes - 46
+Total Reward - -34741
+Episodes - 47
+Total Reward - -16036
+Episodes - 48
+Total Reward - -4081
+Episodes - 49
+Total Reward - -5988
+Episodes - 50
+Total Reward - -66837
+Episodes - 51
+Total Reward - -72621
+Episodes - 52
+Total Reward - -16692
+Episodes - 53
+Total Reward - -20682
+Episodes - 54
+Total Reward - -66932
+Episodes - 55
+Total Reward - -2486
+Episodes - 56
+Total Reward - -45827
+Episodes - 57
+Total Reward - -23215
+Episodes - 58
+Total Reward - -73347
+Episodes - 59
+Total Reward - -24032
+Episodes - 60
+Total Reward - -70363
+Episodes - 61
+Total Reward - -34357
+Episodes - 62
+Total Reward - -100000
+Episodes - 63
+Total Reward - -18671
+Episodes - 64
+Total Reward - -17931
+Episodes - 65
+Total Reward - -41539
+Episodes - 66
+Total Reward - -6743
+Episodes - 67
+Total Reward - -28744
+Episodes - 68
+Total Reward - -100000
+Episodes - 69
+Total Reward - -35803
+Episodes - 70
+Total Reward - -87785
+Episodes - 71
+Total Reward - -8015
+Episodes - 72
+Total Reward - -1759
+Episodes - 73
+Total Reward - -6897
+Episodes - 74
+Total Reward - -30426
+Episodes - 75
+Total Reward - -44528
+Episodes - 76
+Total Reward - -23777
+Episodes - 77
+Total Reward - -29925
+Episodes - 78
+Total Reward - -37068
+Episodes - 79
+Total Reward - -41232
+Episodes - 80
+Total Reward - -5041
+Episodes - 81
+Total Reward - -14266
+Episodes - 82
+Total Reward - -100000
+Episodes - 83
+Total Reward - -2429
+Episodes - 84
+Total Reward - -89657
+Episodes - 85
+Total Reward - -20593
+Episodes - 86
+Total Reward - -5583
+Episodes - 87
+Total Reward - -12801
+Episodes - 88
+Total Reward - -100000
+Episodes - 89
+Total Reward - -55544
+Episodes - 90
+Total Reward - -72231
+Episodes - 91
+Total Reward - -5548
+Episodes - 92
+Total Reward - -17670
+Episodes - 93
+Total Reward - -36635
+Episodes - 94
+Total Reward - -55660
+Episodes - 95
+Total Reward - -18626
+Episodes - 96
+Total Reward - -77578
+Episodes - 97
+Total Reward - -46748
+Episodes - 98
+Total Reward - -5022
+Episodes - 99
+Total Reward - -100000
+Episodes - 100
+Total Reward - -13412
+Episodes - 101
+Total Reward - -65679
+Episodes - 102
+Total Reward - -58561
+Episodes - 103
+Total Reward - -39511
+Episodes - 104
+Total Reward - -21095
+Episodes - 105
+Total Reward - -7313
+Episodes - 106
+Total Reward - -30581
+Episodes - 107
+Total Reward - -58504
+Episodes - 108
+Total Reward - -48740
+Episodes - 109
+Total Reward - -82791
+Episodes - 110
+Total Reward - -11050
+Episodes - 111
+Total Reward - -44261
+Episodes - 112
+Total Reward - -4343
+Episodes - 113
+Total Reward - -1561
+Episodes - 114
+Total Reward - -35164
+Episodes - 115
+Total Reward - -30939
+Episodes - 116
+Total Reward - -57451
+Episodes - 117
+Total Reward - -19669
+Episodes - 118
+Total Reward - -12967
+Episodes - 119
+Total Reward - -46195
+Episodes - 120
+Total Reward - -72733
+Episodes - 121
+Total Reward - -41420
+Episodes - 122
+Total Reward - -13162
+Episodes - 123
+Total Reward - -13706
+Episodes - 124
+Total Reward - -6717
+Episodes - 125
+Total Reward - -85655
+Episodes - 126
+Total Reward - -21175
+Episodes - 127
+Total Reward - -38933
+Episodes - 128
+Total Reward - -86640
+Episodes - 129
+Total Reward - -10793
+Episodes - 130
+Total Reward - -49006
+Episodes - 131
+Total Reward - -65701
+Episodes - 132
+Total Reward - -100000
+Episodes - 133
+Total Reward - -66819
+Episodes - 134
+Total Reward - -29988
+Episodes - 135
+Total Reward - -19263
+Episodes - 136
+Total Reward - -41357
+Episodes - 137
+Total Reward - -3262
+Episodes - 138
+Total Reward - -11427
+Episodes - 139
+Total Reward - -33129
+Episodes - 140
+Total Reward - -12763
+Episodes - 141
+Total Reward - -65701
+Episodes - 142
+Total Reward - -30870
+Episodes - 143
+Total Reward - -37673
+Episodes - 144
+Total Reward - -100000
+Episodes - 145
+Total Reward - -27685
+Episodes - 146
+Total Reward - -16522
+Episodes - 147
+Total Reward - -62557
+Episodes - 148
+Total Reward - -60515
+Episodes - 149
+Total Reward - -29936
+Episodes - 150
+Total Reward - -100000
+Episodes - 151
+Total Reward - -8526
+Episodes - 152
+Total Reward - -71713
+Episodes - 153
+Total Reward - -46823
+Episodes - 154
+Total Reward - -15968
+Episodes - 155
+Total Reward - -25927
+Episodes - 156
+Total Reward - -75492
+Episodes - 157
+Total Reward - -29866
+Episodes - 158
+Total Reward - -22538
+Episodes - 159
+Total Reward - -3331
+Episodes - 160
+Total Reward - -32870
+Episodes - 161
+Total Reward - -6987
+Episodes - 162
+Total Reward - -97257
+Episodes - 163
+Total Reward - -38740
+Episodes - 164
+Total Reward - -74708
+Episodes - 165
+Total Reward - -87120
+Episodes - 166
+Total Reward - -3841
+Episodes - 167
+Total Reward - -17383
+Episodes - 168
+Total Reward - -39527
+Episodes - 169
+Total Reward - -13668
+Episodes - 170
+Total Reward - -100000
+Episodes - 171
+Total Reward - -100000
+Episodes - 172
+Total Reward - -24089
+Episodes - 173
+Total Reward - -100000
+Episodes - 174
+Total Reward - -42179
+Episodes - 175
+Total Reward - -36045
+Episodes - 176
+Total Reward - -12713
+Episodes - 177
+Total Reward - -19608
+Episodes - 178
+Total Reward - -14544
+Episodes - 179
+Total Reward - -39030
+Episodes - 180
+Total Reward - -17143
+Episodes - 181
+Total Reward - -7115
+Episodes - 182
+Total Reward - -66398
+Episodes - 183
+Total Reward - -62070
+Episodes - 184
+Total Reward - -4416
+Episodes - 185
+Total Reward - -12256
+Episodes - 186
+Total Reward - -43298
+Episodes - 187
+Total Reward - -29264
+Episodes - 188
+Total Reward - -57268
+Episodes - 189
+Total Reward - -100000
+Episodes - 190
+Total Reward - -11743
+Episodes - 191
+Total Reward - -25938
+Episodes - 192
+Total Reward - -47510
+Episodes - 193
+Total Reward - -18597
+Episodes - 194
+Total Reward - -7054
+Episodes - 195
+Total Reward - -77778
+Episodes - 196
+Total Reward - -4608
+Episodes - 197
+Total Reward - -47164
+Episodes - 198
+Total Reward - -100000
+Episodes - 199
+Total Reward - -53235
+percentage victory -39366.76
+Working with Tau - 1000
+Episodes - 0
+Total Reward - -7505
+Episodes - 1
+Total Reward - -22189
+Episodes - 2
+Total Reward - -2985
+Episodes - 3
+Total Reward - -1629
+Episodes - 4
+Total Reward - -18831
+Episodes - 5
+Total Reward - -32366
+Episodes - 6
+Total Reward - -27114
+Episodes - 7
+Total Reward - -100000
+Episodes - 8
+Total Reward - -17855
+Episodes - 9
+Total Reward - -31096
+Episodes - 10
+Total Reward - -58536
+Episodes - 11
+Total Reward - -12949
+Episodes - 12
+Total Reward - -100000
+Episodes - 13
+Total Reward - -1864
+Episodes - 14
+Total Reward - -61779
+Episodes - 15
+Total Reward - -6014
+Episodes - 16
+Total Reward - -54728
+Episodes - 17
+Total Reward - -9374
+Episodes - 18
+Total Reward - -100000
+Episodes - 19
+Total Reward - -12934
+Episodes - 20
+Total Reward - -88775
+Episodes - 21
+Total Reward - -2588
+Episodes - 22
+Total Reward - -27248
+Episodes - 23
+Total Reward - -100000
+Episodes - 24
+Total Reward - -23102
+Episodes - 25
+Total Reward - -10848
+Episodes - 26
+Total Reward - -2793
+Episodes - 27
+Total Reward - -48948
+Episodes - 28
+Total Reward - -8912
+Episodes - 29
+Total Reward - -15992
+Episodes - 30
+Total Reward - -19541
+Episodes - 31
+Total Reward - -87129
+Episodes - 32
+Total Reward - -30780
+Episodes - 33
+Total Reward - -19273
+Episodes - 34
+Total Reward - -34624
+Episodes - 35
+Total Reward - -44855
+Episodes - 36
+Total Reward - -26552
+Episodes - 37
+Total Reward - -2619
+Episodes - 38
+Total Reward - -46894
+Episodes - 39
+Total Reward - -16926
+Episodes - 40
+Total Reward - -33137
+Episodes - 41
+Total Reward - -40895
+Episodes - 42
+Total Reward - -70271
+Episodes - 43
+Total Reward - -28895
+Episodes - 44
+Total Reward - -15836
+Episodes - 45
+Total Reward - -48447
+Episodes - 46
+Total Reward - -8319
+Episodes - 47
+Total Reward - -18186
+Episodes - 48
+Total Reward - -32239
+Episodes - 49
+Total Reward - -40226
+Episodes - 50
+Total Reward - -3017
+Episodes - 51
+Total Reward - -12439
+Episodes - 52
+Total Reward - -96438
+Episodes - 53
+Total Reward - -36511
+Episodes - 54
+Total Reward - -70320
+Episodes - 55
+Total Reward - -41503
+Episodes - 56
+Total Reward - -76533
+Episodes - 57
+Total Reward - -78114
+Episodes - 58
+Total Reward - -22492
+Episodes - 59
+Total Reward - -12657
+Episodes - 60
+Total Reward - -100000
+Episodes - 61
+Total Reward - -66239
+Episodes - 62
+Total Reward - -52021
+Episodes - 63
+Total Reward - -100000
+Episodes - 64
+Total Reward - -17618
+Episodes - 65
+Total Reward - -8330
+Episodes - 66
+Total Reward - -4029
+Episodes - 67
+Total Reward - -8600
+Episodes - 68
+Total Reward - -81359
+Episodes - 69
+Total Reward - -18052
+Episodes - 70
+Total Reward - -28534
+Episodes - 71
+Total Reward - -57139
+Episodes - 72
+Total Reward - -13928
+Episodes - 73
+Total Reward - -27976
+Episodes - 74
+Total Reward - -41725
+Episodes - 75
+Total Reward - -92566
+Episodes - 76
+Total Reward - -77597
+Episodes - 77
+Total Reward - -13502
+Episodes - 78
+Total Reward - -11804
+Episodes - 79
+Total Reward - -20952
+Episodes - 80
+Total Reward - -54929
+Episodes - 81
+Total Reward - -8252
+Episodes - 82
+Total Reward - -6041
+Episodes - 83
+Total Reward - -41110
+Episodes - 84
+Total Reward - -100000
+Episodes - 85
+Total Reward - -16685
+Episodes - 86
+Total Reward - -100000
+Episodes - 87
+Total Reward - -4379
+Episodes - 88
+Total Reward - -58058
+Episodes - 89
+Total Reward - -41973
+Episodes - 90
+Total Reward - -48232
+Episodes - 91
+Total Reward - -3935
+Episodes - 92
+Total Reward - -100000
+Episodes - 93
+Total Reward - -6608
+Episodes - 94
+Total Reward - -2792
+Episodes - 95
+Total Reward - -39049
+Episodes - 96
+Total Reward - -27158
+Episodes - 97
+Total Reward - -15458
+Episodes - 98
+Total Reward - -29352
+Episodes - 99
+Total Reward - -100000
+Episodes - 100
+Total Reward - -8202
+Episodes - 101
+Total Reward - -4748
+Episodes - 102
+Total Reward - -39167
+Episodes - 103
+Total Reward - -100000
+Episodes - 104
+Total Reward - -14176
+Episodes - 105
+Total Reward - -10358
+Episodes - 106
+Total Reward - -97631
+Episodes - 107
+Total Reward - -1967
+Episodes - 108
+Total Reward - -15581
+Episodes - 109
+Total Reward - -9639
+Episodes - 110
+Total Reward - -20284
+Episodes - 111
+Total Reward - -4174
+Episodes - 112
+Total Reward - -100000
+Episodes - 113
+Total Reward - -12795
+Episodes - 114
+Total Reward - -16250
+Episodes - 115
+Total Reward - -47127
+Episodes - 116
+Total Reward - -52954
+Episodes - 117
+Total Reward - -100000
+Episodes - 118
+Total Reward - -30739
+Episodes - 119
+Total Reward - -7437
+Episodes - 120
+Total Reward - -47336
+Episodes - 121
+Total Reward - -48001
+Episodes - 122
+Total Reward - -33063
+Episodes - 123
+Total Reward - -5701
+Episodes - 124
+Total Reward - -2037
+Episodes - 125
+Total Reward - -3274
+Episodes - 126
+Total Reward - -18806
+Episodes - 127
+Total Reward - -11335
+Episodes - 128
+Total Reward - -11741
+Episodes - 129
+Total Reward - -14995
+Episodes - 130
+Total Reward - -75421
+Episodes - 131
+Total Reward - -40972
+Episodes - 132
+Total Reward - -13820
+Episodes - 133
+Total Reward - -5331
+Episodes - 134
+Total Reward - -100000
+Episodes - 135
+Total Reward - -10492
+Episodes - 136
+Total Reward - -19995
+Episodes - 137
+Total Reward - -19724
+Episodes - 138
+Total Reward - -11957
+Episodes - 139
+Total Reward - -6568
+Episodes - 140
+Total Reward - -100000
+Episodes - 141
+Total Reward - -100000
+Episodes - 142
+Total Reward - -100000
+Episodes - 143
+Total Reward - -70575
+Episodes - 144
+Total Reward - -10297
+Episodes - 145
+Total Reward - -22483
+Episodes - 146
+Total Reward - -12492
+Episodes - 147
+Total Reward - -3154
+Episodes - 148
+Total Reward - -72658
+Episodes - 149
+Total Reward - -11070
+Episodes - 150
+Total Reward - -100000
+Episodes - 151
+Total Reward - -19880
+Episodes - 152
+Total Reward - -18471
+Episodes - 153
+Total Reward - -8142
+Episodes - 154
+Total Reward - -47228
+Episodes - 155
+Total Reward - -54690
+Episodes - 156
+Total Reward - -39633
+Episodes - 157
+Total Reward - -83404
+Episodes - 158
+Total Reward - -48902
+Episodes - 159
+Total Reward - -20358
+Episodes - 160
+Total Reward - -100000
+Episodes - 161
+Total Reward - -30814
+Episodes - 162
+Total Reward - -38671
+Episodes - 163
+Total Reward - -53914
+Episodes - 164
+Total Reward - -26057
+Episodes - 165
+Total Reward - -36334
+Episodes - 166
+Total Reward - -13861
+Episodes - 167
+Total Reward - -4713
+Episodes - 168
+Total Reward - -9151
+Episodes - 169
+Total Reward - -17984
+Episodes - 170
+Total Reward - -9403
+Episodes - 171
+Total Reward - -100000
+Episodes - 172
+Total Reward - -4016
+Episodes - 173
+Total Reward - -11098
+Episodes - 174
+Total Reward - -29269
+Episodes - 175
+Total Reward - -26741
+Episodes - 176
+Total Reward - -8043
+Episodes - 177
+Total Reward - -53050
+Episodes - 178
+Total Reward - -18729
+Episodes - 179
+Total Reward - -22169
+Episodes - 180
+Total Reward - -62303
+Episodes - 181
+Total Reward - -26301
+Episodes - 182
+Total Reward - -13921
+Episodes - 183
+Total Reward - -9838
+Episodes - 184
+Total Reward - -33437
+Episodes - 185
+Total Reward - -30409
+Episodes - 186
+Total Reward - -23802
+Episodes - 187
+Total Reward - -44650
+Episodes - 188
+Total Reward - -15362
+Episodes - 189
+Total Reward - -90216
+Episodes - 190
+Total Reward - -26463
+Episodes - 191
+Total Reward - -7571
+Episodes - 192
+Total Reward - -29853
+Episodes - 193
+Total Reward - -32635
+Episodes - 194
+Total Reward - -51072
+Episodes - 195
+Total Reward - -13423
+Episodes - 196
+Total Reward - -100000
+Episodes - 197
+Total Reward - -72189
+Episodes - 198
+Total Reward - -30911
+Episodes - 199
+Total Reward - -52217
+percentage victory -36442.145
+Working with Tau - 10000
+Episodes - 0
+Total Reward - -20857
+Episodes - 1
+Total Reward - -10072
+Episodes - 2
+Total Reward - -27740
+Episodes - 3
+Total Reward - -19759
+Episodes - 4
+Total Reward - -30222
+Episodes - 5
+Total Reward - -63064
+Episodes - 6
+Total Reward - -68075
+Episodes - 7
+Total Reward - -14373
+Episodes - 8
+Total Reward - -11466
+Episodes - 9
+Total Reward - -57612
+Episodes - 10
+Total Reward - -100000
+Episodes - 11
+Total Reward - -56726
+Episodes - 12
+Total Reward - -30192
+Episodes - 13
+Total Reward - -100000
+Episodes - 14
+Total Reward - -28437
+Episodes - 15
+Total Reward - -98968
+Episodes - 16
+Total Reward - -39681
+Episodes - 17
+Total Reward - -67211
+Episodes - 18
+Total Reward - -100000
+Episodes - 19
+Total Reward - -17777
+Episodes - 20
+Total Reward - -42532
+Episodes - 21
+Total Reward - -15332
+Episodes - 22
+Total Reward - -8302
+Episodes - 23
+Total Reward - -100000
+Episodes - 24
+Total Reward - -100000
+Episodes - 25
+Total Reward - -4204
+Episodes - 26
+Total Reward - -100000
+Episodes - 27
+Total Reward - -24471
+Episodes - 28
+Total Reward - -15008
+Episodes - 29
+Total Reward - -45221
+Episodes - 30
+Total Reward - -8462
+Episodes - 31
+Total Reward - -42583
+Episodes - 32
+Total Reward - -13182
+Episodes - 33
+Total Reward - -19549
+Episodes - 34
+Total Reward - -56719
+Episodes - 35
+Total Reward - -11851
+Episodes - 36
+Total Reward - -53864
+Episodes - 37
+Total Reward - -58701
+Episodes - 38
+Total Reward - -32570
+Episodes - 39
+Total Reward - -55850
+Episodes - 40
+Total Reward - -56336
+Episodes - 41
+Total Reward - -100000
+Episodes - 42
+Total Reward - -67446
+Episodes - 43
+Total Reward - -68845
+Episodes - 44
+Total Reward - -13410
+Episodes - 45
+Total Reward - -32778
+Episodes - 46
+Total Reward - -56477
+Episodes - 47
+Total Reward - -13336
+Episodes - 48
+Total Reward - -24381
+Episodes - 49
+Total Reward - -31734
+Episodes - 50
+Total Reward - -85533
+Episodes - 51
+Total Reward - -80333
+Episodes - 52
+Total Reward - -31282
+Episodes - 53
+Total Reward - -20246
+Episodes - 54
+Total Reward - -7973
+Episodes - 55
+Total Reward - -64637
+Episodes - 56
+Total Reward - -11569
+Episodes - 57
+Total Reward - -13439
+Episodes - 58
+Total Reward - -54386
+Episodes - 59
+Total Reward - -12051
+Episodes - 60
+Total Reward - -19069
+Episodes - 61
+Total Reward - -100000
+Episodes - 62
+Total Reward - -6883
+Episodes - 63
+Total Reward - -59454
+Episodes - 64
+Total Reward - -19595
+Episodes - 65
+Total Reward - -100000
+Episodes - 66
+Total Reward - -14457
+Episodes - 67
+Total Reward - -77416
+Episodes - 68
+Total Reward - -36520
+Episodes - 69
+Total Reward - -28809
+Episodes - 70
+Total Reward - -12519
+Episodes - 71
+Total Reward - -1827
+Episodes - 72
+Total Reward - -84863
+Episodes - 73
+Total Reward - -1567
+Episodes - 74
+Total Reward - -100000
+Episodes - 75
+Total Reward - -3867
+Episodes - 76
+Total Reward - -18429
+Episodes - 77
+Total Reward - -100000
+Episodes - 78
+Total Reward - -28127
+Episodes - 79
+Total Reward - -93752
+Episodes - 80
+Total Reward - -32694
+Episodes - 81
+Total Reward - -6933
+Episodes - 82
+Total Reward - -18708
+Episodes - 83
+Total Reward - -100000
+Episodes - 84
+Total Reward - -10942
+Episodes - 85
+Total Reward - -14736
+Episodes - 86
+Total Reward - -100000
+Episodes - 87
+Total Reward - -12251
+Episodes - 88
+Total Reward - -13592
+Episodes - 89
+Total Reward - -6196
+Episodes - 90
+Total Reward - -21403
+Episodes - 91
+Total Reward - -28259
+Episodes - 92
+Total Reward - -27828
+Episodes - 93
+Total Reward - -31354
+Episodes - 94
+Total Reward - -26622
+Episodes - 95
+Total Reward - -22667
+Episodes - 96
+Total Reward - -29318
+Episodes - 97
+Total Reward - -19122
+Episodes - 98
+Total Reward - -41034
+Episodes - 99
+Total Reward - -30331
+Episodes - 100
+Total Reward - -47601
+Episodes - 101
+Total Reward - -19128
+Episodes - 102
+Total Reward - -35403
+Episodes - 103
+Total Reward - -17727
+Episodes - 104
+Total Reward - -7990
+Episodes - 105
+Total Reward - -3503
+Episodes - 106
+Total Reward - -88658
+Episodes - 107
+Total Reward - -15132
+Episodes - 108
+Total Reward - -9629
+Episodes - 109
+Total Reward - -8147
+Episodes - 110
+Total Reward - -100000
+Episodes - 111
+Total Reward - -6206
+Episodes - 112
+Total Reward - -13717
+Episodes - 113
+Total Reward - -39063
+Episodes - 114
+Total Reward - -96715
+Episodes - 115
+Total Reward - -57856
+Episodes - 116
+Total Reward - -42413
+Episodes - 117
+Total Reward - -21407
+Episodes - 118
+Total Reward - -34738
+Episodes - 119
+Total Reward - -50643
+Episodes - 120
+Total Reward - -5501
+Episodes - 121
+Total Reward - -45254
+Episodes - 122
+Total Reward - -22468
+Episodes - 123
+Total Reward - -6090
+Episodes - 124
+Total Reward - -100000
+Episodes - 125
+Total Reward - -14710
+Episodes - 126
+Total Reward - -3059
+Episodes - 127
+Total Reward - -43392
+Episodes - 128
+Total Reward - -23744
+Episodes - 129
+Total Reward - -89115
+Episodes - 130
+Total Reward - -23464
+Episodes - 131
+Total Reward - -42202
+Episodes - 132
+Total Reward - -41783
+Episodes - 133
+Total Reward - -16313
+Episodes - 134
+Total Reward - -39635
+Episodes - 135
+Total Reward - -25227
+Episodes - 136
+Total Reward - -60014
+Episodes - 137
+Total Reward - -6640
+Episodes - 138
+Total Reward - -34350
+Episodes - 139
+Total Reward - -88424
+Episodes - 140
+Total Reward - -20923
+Episodes - 141
+Total Reward - -48719
+Episodes - 142
+Total Reward - -5359
+Episodes - 143
+Total Reward - -10512
+Episodes - 144
+Total Reward - -43231
+Episodes - 145
+Total Reward - -12905
+Episodes - 146
+Total Reward - -45512
+Episodes - 147
+Total Reward - -9334
+Episodes - 148
+Total Reward - -32418
+Episodes - 149
+Total Reward - -9350
+Episodes - 150
+Total Reward - -69499
+Episodes - 151
+Total Reward - -1578
+Episodes - 152
+Total Reward - -6320
+Episodes - 153
+Total Reward - -66553
+Episodes - 154
+Total Reward - -40063
+Episodes - 155
+Total Reward - -50515
+Episodes - 156
+Total Reward - -51138
+Episodes - 157
+Total Reward - -20007
+Episodes - 158
+Total Reward - -100000
+Episodes - 159
+Total Reward - -37686
+Episodes - 160
+Total Reward - -45609
+Episodes - 161
+Total Reward - -11730
+Episodes - 162
+Total Reward - -14632
+Episodes - 163
+Total Reward - -7575
+Episodes - 164
+Total Reward - -100000
+Episodes - 165
+Total Reward - -17969
+Episodes - 166
+Total Reward - -15759
+Episodes - 167
+Total Reward - -24120
+Episodes - 168
+Total Reward - -100000
+Episodes - 169
+Total Reward - -15094
+Episodes - 170
+Total Reward - -39398
+Episodes - 171
+Total Reward - -7715
+Episodes - 172
+Total Reward - -6925
+Episodes - 173
+Total Reward - -35026
+Episodes - 174
+Total Reward - -48107
+Episodes - 175
+Total Reward - -64603
+Episodes - 176
+Total Reward - -32922
+Episodes - 177
+Total Reward - -83283
+Episodes - 178
+Total Reward - -31088
+Episodes - 179
+Total Reward - -100000
+Episodes - 180
+Total Reward - -43898
+Episodes - 181
+Total Reward - -42695
+Episodes - 182
+Total Reward - -100000
+Episodes - 183
+Total Reward - -7350
+Episodes - 184
+Total Reward - -91512
+Episodes - 185
+Total Reward - -49160
+Episodes - 186
+Total Reward - -19915
+Episodes - 187
+Total Reward - -66879
+Episodes - 188
+Total Reward - -31719
+Episodes - 189
+Total Reward - -6065
+Episodes - 190
+Total Reward - -6605
+Episodes - 191
+Total Reward - -2137
+Episodes - 192
+Total Reward - -8550
+Episodes - 193
+Total Reward - -3986
+Episodes - 194
+Total Reward - -33308
+Episodes - 195
+Total Reward - -21011
+Episodes - 196
+Total Reward - -5662
+Episodes - 197
+Total Reward - -42741
+Episodes - 198
+Total Reward - -4913
+Episodes - 199
+Total Reward - -33138
+percentage victory -38347.255
+Working with Tau - 100000
+Episodes - 0
+Total Reward - -100000
+Episodes - 1
+Total Reward - -15815
+Episodes - 2
+Total Reward - -100000
+Episodes - 3
+Total Reward - -30366
+Episodes - 4
+Total Reward - -27354
+Episodes - 5
+Total Reward - -80719
+Episodes - 6
+Total Reward - -2244
+Episodes - 7
+Total Reward - -9725
+Episodes - 8
+Total Reward - -8059
+Episodes - 9
+Total Reward - -65180
+Episodes - 10
+Total Reward - -14423
+Episodes - 11
+Total Reward - -22849
+Episodes - 12
+Total Reward - -5307
+Episodes - 13
+Total Reward - -65746
+Episodes - 14
+Total Reward - -5868
+Episodes - 15
+Total Reward - -100000
+Episodes - 16
+Total Reward - -6194
+Episodes - 17
+Total Reward - -72787
+Episodes - 18
+Total Reward - -29574
+Episodes - 19
+Total Reward - -57031
+Episodes - 20
+Total Reward - -18762
+Episodes - 21
+Total Reward - -18771
+Episodes - 22
+Total Reward - -24372
+Episodes - 23
+Total Reward - -38701
+Episodes - 24
+Total Reward - -2883
+Episodes - 25
+Total Reward - -86661
+Episodes - 26
+Total Reward - -23455
+Episodes - 27
+Total Reward - -20806
+Episodes - 28
+Total Reward - -6107
+Episodes - 29
+Total Reward - -65767
+Episodes - 30
+Total Reward - -7243
+Episodes - 31
+Total Reward - -9732
+Episodes - 32
+Total Reward - -9576
+Episodes - 33
+Total Reward - -18879
+Episodes - 34
+Total Reward - -10162
+Episodes - 35
+Total Reward - -8250
+Episodes - 36
+Total Reward - -42365
+Episodes - 37
+Total Reward - -14178
+Episodes - 38
+Total Reward - -13483
+Episodes - 39
+Total Reward - -39371
+Episodes - 40
+Total Reward - -9439
+Episodes - 41
+Total Reward - -50911
+Episodes - 42
+Total Reward - -3294
+Episodes - 43
+Total Reward - -100000
+Episodes - 44
+Total Reward - -13356
+Episodes - 45
+Total Reward - -11192
+Episodes - 46
+Total Reward - -35749
+Episodes - 47
+Total Reward - -44385
+Episodes - 48
+Total Reward - -20225
+Episodes - 49
+Total Reward - -14905
+Episodes - 50
+Total Reward - -15747
+Episodes - 51
+Total Reward - -32899
+Episodes - 52
+Total Reward - -2439
+Episodes - 53
+Total Reward - -18722
+Episodes - 54
+Total Reward - -84860
+Episodes - 55
+Total Reward - -24203
+Episodes - 56
+Total Reward - -91156
+Episodes - 57
+Total Reward - -10626
+Episodes - 58
+Total Reward - -10457
+Episodes - 59
+Total Reward - -10337
+Episodes - 60
+Total Reward - -95307
+Episodes - 61
+Total Reward - -53925
+Episodes - 62
+Total Reward - -19298
+Episodes - 63
+Total Reward - -71392
+Episodes - 64
+Total Reward - -100000
+Episodes - 65
+Total Reward - -79059
+Episodes - 66
+Total Reward - -94251
+Episodes - 67
+Total Reward - -25650
+Episodes - 68
+Total Reward - -48179
+Episodes - 69
+Total Reward - -61259
+Episodes - 70
+Total Reward - -6800
+Episodes - 71
+Total Reward - -44666
+Episodes - 72
+Total Reward - -9823
+Episodes - 73
+Total Reward - -37560
+Episodes - 74
+Total Reward - -43603
+Episodes - 75
+Total Reward - -36723
+Episodes - 76
+Total Reward - -56233
+Episodes - 77
+Total Reward - -62500
+Episodes - 78
+Total Reward - -6563
+Episodes - 79
+Total Reward - -11337
+Episodes - 80
+Total Reward - -28675
+Episodes - 81
+Total Reward - -50511
+Episodes - 82
+Total Reward - -74646
+Episodes - 83
+Total Reward - -17037
+Episodes - 84
+Total Reward - -23060
+Episodes - 85
+Total Reward - -31386
+Episodes - 86
+Total Reward - -9917
+Episodes - 87
+Total Reward - -16865
+Episodes - 88
+Total Reward - -44787
+Episodes - 89
+Total Reward - -31390
+Episodes - 90
+Total Reward - -16078
+Episodes - 91
+Total Reward - -55327
+Episodes - 92
+Total Reward - -27913
+Episodes - 93
+Total Reward - -9676
+Episodes - 94
+Total Reward - -25259
+Episodes - 95
+Total Reward - -6333
+Episodes - 96
+Total Reward - -55669
+Episodes - 97
+Total Reward - -3947
+Episodes - 98
+Total Reward - -14438
+Episodes - 99
+Total Reward - -14111
+Episodes - 100
+Total Reward - -37832
+Episodes - 101
+Total Reward - -50271
+Episodes - 102
+Total Reward - -46244
+Episodes - 103
+Total Reward - -96832
+Episodes - 104
+Total Reward - -19277
+Episodes - 105
+Total Reward - -43297
+Episodes - 106
+Total Reward - -17226
+Episodes - 107
+Total Reward - -100000
+Episodes - 108
+Total Reward - -42718
+Episodes - 109
+Total Reward - -100000
+Episodes - 110
+Total Reward - -17466
+Episodes - 111
+Total Reward - -60402
+Episodes - 112
+Total Reward - -38563
+Episodes - 113
+Total Reward - -100000
+Episodes - 114
+Total Reward - -53482
+Episodes - 115
+Total Reward - -30964
+Episodes - 116
+Total Reward - -70506
+Episodes - 117
+Total Reward - -36614
+Episodes - 118
+Total Reward - -33784
+Episodes - 119
+Total Reward - -11928
+Episodes - 120
+Total Reward - -21502
+Episodes - 121
+Total Reward - -57633
+Episodes - 122
+Total Reward - -49283
+Episodes - 123
+Total Reward - -18002
+Episodes - 124
+Total Reward - -2987
+Episodes - 125
+Total Reward - -100000
+Episodes - 126
+Total Reward - -21396
+Episodes - 127
+Total Reward - -55442
+Episodes - 128
+Total Reward - -42843
+Episodes - 129
+Total Reward - -24535
+Episodes - 130
+Total Reward - -51688
+Episodes - 131
+Total Reward - -73761
+Episodes - 132
+Total Reward - -30402
+Episodes - 133
+Total Reward - -18720
+Episodes - 134
+Total Reward - -51510
+Episodes - 135
+Total Reward - -95942
+Episodes - 136
+Total Reward - -1212
+Episodes - 137
+Total Reward - -36475
+Episodes - 138
+Total Reward - -11254
+Episodes - 139
+Total Reward - -40874
+Episodes - 140
+Total Reward - -33235
+Episodes - 141
+Total Reward - -11228
+Episodes - 142
+Total Reward - -75051
+Episodes - 143
+Total Reward - -19760
+Episodes - 144
+Total Reward - -11200
+Episodes - 145
+Total Reward - -26792
+Episodes - 146
+Total Reward - -22534
+Episodes - 147
+Total Reward - -12582
+Episodes - 148
+Total Reward - -100000
+Episodes - 149
+Total Reward - -3490
+Episodes - 150
+Total Reward - -19483
+Episodes - 151
+Total Reward - -23236
+Episodes - 152
+Total Reward - -97417
+Episodes - 153
+Total Reward - -23684
+Episodes - 154
+Total Reward - -21835
+Episodes - 155
+Total Reward - -5395
+Episodes - 156
+Total Reward - -66772
+Episodes - 157
+Total Reward - -57656
+Episodes - 158
+Total Reward - -100000
+Episodes - 159
+Total Reward - -19703
+Episodes - 160
+Total Reward - -14300
+Episodes - 161
+Total Reward - -64284
+Episodes - 162
+Total Reward - -50018
+Episodes - 163
+Total Reward - -56883
+Episodes - 164
+Total Reward - -20297
+Episodes - 165
+Total Reward - -20126
+Episodes - 166
+Total Reward - -91468
+Episodes - 167
+Total Reward - -58074
+Episodes - 168
+Total Reward - -69484
+Episodes - 169
+Total Reward - -21054
+Episodes - 170
+Total Reward - -100000
+Episodes - 171
+Total Reward - -40740
+Episodes - 172
+Total Reward - -83538
+Episodes - 173
+Total Reward - -3797
+Episodes - 174
+Total Reward - -48602
+Episodes - 175
+Total Reward - -24545
+Episodes - 176
+Total Reward - -23905
+Episodes - 177
+Total Reward - -13743
+Episodes - 178
+Total Reward - -55219
+Episodes - 179
+Total Reward - -47087
+Episodes - 180
+Total Reward - -23658
+Episodes - 181
+Total Reward - -10774
+Episodes - 182
+Total Reward - -1551
+Episodes - 183
+Total Reward - -4432
+Episodes - 184
+Total Reward - -100000
+Episodes - 185
+Total Reward - -77709
+Episodes - 186
+Total Reward - -43794
+Episodes - 187
+Total Reward - -3703
+Episodes - 188
+Total Reward - -56595
+Episodes - 189
+Total Reward - -37485
+Episodes - 190
+Total Reward - -27767
+Episodes - 191
+Total Reward - -26606
+Episodes - 192
+Total Reward - -6065
+Episodes - 193
+Total Reward - -41746
+Episodes - 194
+Total Reward - -24434
+Episodes - 195
+Total Reward - -22806
+Episodes - 196
+Total Reward - -22137
+Episodes - 197
+Total Reward - -48238
+Episodes - 198
+Total Reward - -16572
+Episodes - 199
+Total Reward - -20523
+percentage victory -37562.495
